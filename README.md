@@ -22,3 +22,5 @@ JICA新規事業「Fab x 国際協力」主催メイカソン [「視覚障害�
 
 ### **アドホック**
 Yamada, K., Dorji, K. (2024). The Country Office as Part of the JICA Volunteer Program: Background and Implementation in Bhutan. In: Okabe, Y. (eds) State-Managed International Voluntary Service. Springer, Singapore.[DOI](https://doi.org/10.1007/978-981-97-3615-7_7)
+
+追加
