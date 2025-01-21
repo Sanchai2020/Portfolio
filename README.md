@@ -9,6 +9,7 @@ note [山田浩司@FabLab CST](https://note.com/sanchai2022)
 ブログ [サンチャイ☆ブログ（संचै पत्र）](https://sanchaiblog2005.seesaa.net/)
 
 JICAホームページ [デジタルものづくり工房（ファブラボ）による技術教育・普及促進プロジェクト](https://www.jica.go.jp/oda/project/1900281/index.html)
+
 ※このプロジェクトは2023年12月で終了し、随時更新もそこで終了しております。
 
 
@@ -27,4 +28,4 @@ JICA新規事業「Fab x 国際協力」主催メイカソン [「視覚障害�
 Yamada, K., Dorji, K. (2024). The Country Office as Part of the JICA Volunteer Program: Background and Implementation in Bhutan. In: Okabe, Y. (eds) State-Managed International Voluntary Service. Springer, Singapore.[DOI](https://doi.org/10.1007/978-981-97-3615-7_7)
 
 Yamada, K. (2019). Speaking Up!: A Development Practitioner's Memoir of His 1,065 Days in Bhutan. Kuensel, Thimphu 
-[Amazon](Speaking amazon.co.jp/Speaking-Up-Development-Practitioners-English-ebook/dp/B07T14JZY7)
+[Amazon](https://www.amazon.co.jp/Speaking-Up-Development-Practitioners-English-ebook/dp/B07T14JZY7/ref=sr_1_1?dib=eyJ2IjoiMSJ9.kizsItB3_xzsZBJQwkDAvQ.tvXCWzPg01-xI5pFVDuySNbhk22WuyvYRMkTOpxD7a0&dib_tag=se&qid=1737501576&refinements=p_27%3AKoji+YAMADA&s=digital-text&sr=1-1&text=Koji+YAMADA)
